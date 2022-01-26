@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="background"
+>
+  <div
+    className="light_box"
+  >
+    <div
+      className="light_box"
+    >
+      <div
+        className="red_light_active"
+      />
+      <div
+        className="light_top"
+      />
+    </div>
+    <div
+      className="light_box"
+    >
+      <div
+        className="yellow_light"
+      />
+      <div
+        className="light_top"
+      />
+    </div>
+    <div
+      className="light_box"
+    >
+      <div
+        className="green_light"
+      />
+      <div
+        className="light_top"
+      />
+    </div>
+  </div>
+</div>
+`;

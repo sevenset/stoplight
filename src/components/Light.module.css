@@ -1,0 +1,77 @@
+.light_box {
+  height: 33%;
+  width: auto;
+  margin: 3px;
+  background-color: #3d405b;
+  border: solid 3px black;
+  box-shadow: 0px 0px 20px 3px black inset;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.red_light {
+  width: 70%;
+  height: 70%;
+  border-radius: 50%;
+  z-index: 77;
+  background-color: #ba181b;
+  box-shadow: 0px 0px 15px 8px #6607 inset;
+}
+
+.yellow_light {
+  width: 70%;
+  height: 70%;
+  border-radius: 50%;
+  z-index: 77;
+  background-color: #fdc500;
+  box-shadow: 0px 0px 15px 8px #e09f3e inset;
+}
+
+.green_light {
+  width: 70%;
+  height: 70%;
+  border-radius: 50%;
+  z-index: 77;
+  background-color: #6a994e;
+  box-shadow: 0px 0px 15px 8px #52796f inset;
+}
+
+.red_light_active {
+  width: 70%;
+  height: 70%;
+  border-radius: 50%;
+  z-index: 77;
+  background-color: #f5213a;
+  box-shadow: 0px 0px 15px 8px #ef233c inset;
+}
+
+.yellow_light_active {
+  width: 70%;
+  height: 70%;
+  border-radius: 50%;
+  z-index: 77;
+  background-color: #ffe66d;
+  box-shadow: 0px 0px 15px 8px #ffe66d inset;
+}
+
+.green_light_active {
+  width: 70%;
+  height: 70%;
+  border-radius: 50%;
+  z-index: 77;
+  background-color: #7ae528;
+  box-shadow: 0px 0px 15px 8px #7ae528 inset;
+}
+
+.light_top {
+  width: 70%;
+  height: 70%;
+  border-radius: 50%;
+  background-color: #565264;
+  border: 1px solid black;
+  position: absolute;
+  top: 15px;
+  z-index: 8;
+}
